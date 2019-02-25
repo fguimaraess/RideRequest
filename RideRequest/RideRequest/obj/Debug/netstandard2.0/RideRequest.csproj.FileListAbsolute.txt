@@ -1,0 +1,12 @@
+C:\Projetos\RideRequest\RideRequest\RideRequest\bin\Debug\netstandard2.0\RideRequest.deps.json
+C:\Projetos\RideRequest\RideRequest\RideRequest\bin\Debug\netstandard2.0\RideRequest.dll
+C:\Projetos\RideRequest\RideRequest\RideRequest\bin\Debug\netstandard2.0\RideRequest.pdb
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\RideRequest.csprojAssemblyReference.cache
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\RideRequest.csproj.CoreCompileInputs.cache
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\RideRequest.AssemblyInfoInputs.cache
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\RideRequest.AssemblyInfo.cs
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\RideRequest.dll
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\RideRequest.pdb
+C:\Projetos\RideRequest\RideRequest\RideRequest\obj\Debug\netstandard2.0\XamlC.stamp
