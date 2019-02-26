@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:RideRequest"
+             xmlns:dm="clr-namespace:dotMorten.Xamarin.Forms;assembly=dotMorten.Xamarin.Forms.AutoSuggestBox"
+             x:Class="RideRequest.View.ListagemView">
+
+        <StackLayout>
+            <Label Text="Informe sua origem e destino e veja as opções de transporte mais em conta para você!" 
+                   FontSize="12" HorizontalOptions="Start" Margin="25"/>
+            
+            <Label Text="Origem" HorizontalOptions="Start" />
+            <dm:AutoSuggestBox x:Name="SuggestBoxOrigin" 
+                           PlaceholderText="Digite o lugar de origem" 
+                           DisplayMemberPath="FullDisplayName" 
+                           TextMemberPath="DisplayName"
+                           TextChanged="OnChangeOrigin"
+                           QuerySubmitted="ChooseOrigin" />
+
+            <Label Text="Destino" HorizontalOptions="Start" />
+            <dm:AutoSuggestBox x:Name="SuggestBoxDestiny" 
+                           PlaceholderText="Digite o lugar de destino" 
+                           DisplayMemberPath="FullDisplayName" 
+                           TextMemberPath="DisplayName"
+                           TextChanged="OnChangeDestiny"
+                           QuerySubmitted="ChooseDestiny" />
+
+            <Button Command="{Binding SearchCommand}"></Button>
+        </StackLayout>
+</ContentPage>

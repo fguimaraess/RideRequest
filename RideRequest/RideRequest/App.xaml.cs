@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RideRequest.View;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +12,7 @@ namespace RideRequest
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new ListagemView();
         }
 
         protected override void OnStart()

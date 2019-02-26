@@ -648,11 +648,10 @@
   },
   "libraries": {
     "dotMorten.Xamarin.Forms.AutoSuggestBox/0.6.0": {
-      "sha512": "BsBNKGIKd4crkLCvboTCdUZBEXeuKozWI0sFzGhuzwkFWRqgAScWuWN5A0B4HgIDMpXy1EhLyHbc7Ofbes1PbA==",
+      "sha512": "M+ldZooFGHdWB+7Kmh04Uer5rptcc3i5slBA6T+bryHHwQd8tZmkyxGby79lZBZtyrNkVdc722ii/tmngSOjig==",
       "type": "package",
       "path": "dotmorten.xamarin.forms.autosuggestbox/0.6.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "dotmorten.xamarin.forms.autosuggestbox.0.6.0.nupkg.sha512",
         "dotmorten.xamarin.forms.autosuggestbox.nuspec",
@@ -672,11 +671,10 @@
       ]
     },
     "Newtonsoft.Json/12.0.1": {
-      "sha512": "pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "sha512": "jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
       "type": "package",
       "path": "newtonsoft.json/12.0.1",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
@@ -869,7 +867,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felipe.guimaraes\\.nuget\\packages\\": {}
+    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -877,12 +875,12 @@
       "projectUniqueName": "C:\\Projetos\\RideRequest\\RideRequest\\RideRequest.iOS\\RideRequest.iOS.csproj",
       "projectName": "RideRequest.iOS",
       "projectPath": "C:\\Projetos\\RideRequest\\RideRequest\\RideRequest.iOS\\RideRequest.iOS.csproj",
-      "packagesPath": "C:\\Users\\felipe.guimaraes\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
       "outputPath": "C:\\Projetos\\RideRequest\\RideRequest\\RideRequest.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\felipe.guimaraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
